@@ -80,7 +80,7 @@ data.long1 %>%
   ggplot(aes(x = SCYL3, y = TSPANG)) +
   geom_point()
 
-  ![Image](https://github.com/user-attachments/assets/67dff96c-b0c5-4047-b0a1-7a4a63344e56)
+![Image](https://github.com/user-attachments/assets/62d4a8fc-61b9-47ab-b439-5918ed1030b6)
 
 
 
