@@ -66,7 +66,7 @@ DM <- data.long1 %>%
 - ### Bar Plot
 data.long1 %>% ggplot(.,aes(x=sample,y=FPKM,fill=metastasis))+geom_col()+theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
-![Image](https://github.com/user-attachments/assets/632657eb-34b9-437c-ae31-ea1a0237f5a8)
+![Image](https://github.com/user-attachments/assets/c4272293-a322-4864-b198-bd7bee1bd634)
 
 - ### Density Plot
 ggplot(data.long1, aes(x = sample, fill = metastasis)) +
