@@ -72,7 +72,7 @@ data.long1 %>% ggplot(.,aes(x=sample,y=FPKM,fill=metastasis))+geom_col()+theme(a
 ggplot(data.long1, aes(x = sample, fill = metastasis)) +
   geom_density(alpha = 0.3)+theme(axis.text.x = element_text(angle = 45, hjust = 1))
   
-![Image](https://github.com/user-attachments/assets/c48a0e45-b95d-465d-ac93-a78cc4416496)
+![Image](https://github.com/user-attachments/assets/baf14654-5965-4533-a3ca-eb153f4c9294)
 
 - ### Scatter Plot
 data.long1 %>%
